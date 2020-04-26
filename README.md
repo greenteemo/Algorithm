@@ -4,3 +4,4 @@
 * [Heap](https://github.com/greenteemo/Algorithm/issues/4)
 * [DFS](https://github.com/greenteemo/Algorithm/issues/5)
 * [LinkedList](https://github.com/greenteemo/Algorithm/issues/6)
+* [Tree](https://github.com/greenteemo/Algorithm/issues/7)
