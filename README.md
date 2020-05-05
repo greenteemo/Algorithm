@@ -5,3 +5,5 @@
 * [DFS](https://github.com/greenteemo/Algorithm/issues/5)
 * [LinkedList](https://github.com/greenteemo/Algorithm/issues/6)
 * [Tree](https://github.com/greenteemo/Algorithm/issues/7)
+* [Search](https://github.com/greenteemo/Algorithm/issues/8)
+* [Sort](https://github.com/greenteemo/Algorithm/issues/9)
